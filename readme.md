@@ -2,16 +2,12 @@
 
 A solidity smart contract that behaves like a vending machine with vending machine items balances for each account, setting prices, buying donuts, restocking donuts and features allowed only to the contract owner.
 
-## Getting Started
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
-
 ### Prerequisites
 
 - [Node.js](https://nodejs.org/en/download/)
 - [Ganache](https://www.trufflesuite.com/ganache)
 
-### Installing
+### Get Started
 
 1. Clone the repo
 
