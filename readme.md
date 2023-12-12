@@ -35,4 +35,11 @@ A solidity smart contract that behaves like a vending machine with vending machi
     truffle migrate
    ```
 
+6. Run react app to interact with the smart contract (src contains the raect code to interact with the smart contract using web3.js)
+
+   ```
+   npm install
+   npm start
+   ```
+
 #### The smart contract will be deployed on ganache blockchain which should be running on `localhost:7545`. Change it from `truffle-config.js` if you want a different port.
